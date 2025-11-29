@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-groq
+langchain-openai        # por si algún día usas embeddings de Groq sin torch
+pypdf
+docx2txt                # ← para leer archivos .docx (Word)
+unstructured[docx]      # ← extra para Word más robusto
+chromadb
+openai
+python-dotenv           # por si quieres usar .env más adelante
